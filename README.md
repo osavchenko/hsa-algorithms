@@ -2,11 +2,11 @@
 
 # Balanced Binary Search Tree
 
- Type | Generate tree | Search | Delete
-======|===============|========|========
- Min  | 258           | 1      | 4
- Max  | 414           | 8      | 8
- Mean | 321           | 6      | 6
+| Type | Generate tree | Search | Delete |
+|------|---------------|--------|--------|
+| Min  | 258           | 1      | 4      |
+| Max  | 414           | 8      | 8      |
+| Mean | 321           | 6      | 6      |
 
 For Search/Delete operations it is in the line with `O log(n)` 
 
